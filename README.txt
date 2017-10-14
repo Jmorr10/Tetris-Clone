@@ -1,7 +1,10 @@
 Name: Joseph Morris
-Email: Jmorr10@u.rochester.edu
 Project #4, Tetris
 Date: 12-16-10
+
+NOTE: THIS CODE HAS NOT BEEN CHANGED SINCE I FIRST WROTE IT. AS SUCH, IT IS HORRIBLE AND IS MORE OF A REMINDER OF HOW FAR I'VE COME.
+------------------------------------------------------------------------------------------------------------------------------------
+
 
 Description:
 
