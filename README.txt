@@ -2,62 +2,46 @@ Name: Joseph Morris
 Project #4, Tetris
 Date: 12-16-10
 
-NOTE: THIS CODE HAS NOT BEEN CHANGED SINCE I FIRST WROTE IT. AS SUCH, IT IS HORRIBLE AND IS MORE OF A REMINDER OF HOW FAR I'VE COME.
-------------------------------------------------------------------------------------------------------------------------------------
+# Note: 
+This code has not been edited or maintained since it was written. It serves as an early example of my explorations in coding.
 
+![Screenshot](Screenshot.jpg "Screenshot of the program")
 
-Description:
-
+# Description:
 This game, Tetris, is an exercise in the manipulation of simple graphics, arrays, and input listeners.The game starts out at a slow pace, but then as the user gets a tetris (or passes twenty lines cleared) the speed increases to make the game more challenging. It features three songs for the user to listen to while playing. The game ends when a piece cannot be generated on the board.
 
-INSTRUCTIONS FOR RUNNING THIS PROGRAM!
+# Instructions:
 
 THIS APPLET MUST BE RUN USING FROM A COMMAND LINE OR TERMINAL USING THE FOLLOWING COMMAND: appletviewer Tetris.html
+
+
 THE PROGRAM WILL NOT FUNCTION IN A NORMAL BROWSER DUE TO COMPATIBILITY ISSUES!!!!
 
-
-Included Files and INSTRUCTIONS FOR USAGE OF FILES:
-arrow.png
-blue.png
-Board.class
-Board.java
-border.png
-cyan.png
-denied.wav
-green.png
-InfoPanel.class
-InfoPanel.java
-orange.png
-PieceContainer$1.class
-PieceContainer.class
-PieceContainer.java
-Pieces.class
-Pieces.java
-pieceTypes.class
-pieceTypes.java
-PreviewBox$1.class
-PreviewBox.class
-PreviewBox.java
-purple.png
-README.txt
-red.png
-spacebar.png
-Tetoroika.mid
-Tetris$1.class
-Tetris$2.class
-Tetris$3.class
-Tetris$4.class
-Tetris$5.class
-Tetris$6.class
-Tetris$7.class
-Tetris$8.class
-Tetris.class
-Tetris.html
-Tetris.java
-TetrisA.mid
-TetrisB.mid
-yellow.png
-z.png
+# Included Files and INSTRUCTIONS FOR USAGE OF FILES:
+* arrow.png
+* blue.png
+* Board.java
+* border.png
+* cyan.png
+* denied.wav
+* green.png
+* InfoPanel.java
+* orange.png
+* PieceContainer.java
+* Pieces.java
+* pieceTypes.java
+* PreviewBox.java
+* purple.png
+* README.txt
+* red.png
+* spacebar.png
+* Tetoroika.mid
+* Tetris.html
+* Tetris.java
+* TetrisA.mid
+* TetrisB.mid
+* yellow.png
+* z.png
 
 README.txt:
 This file.
@@ -80,33 +64,18 @@ A class that controls the drawing of the information panel in the game.
 PreviewBox.java:
 A class that controls the block preview box in the game.
 
-INSTRUCTIONS FOR RUNNING THIS PROGRAM!
-
-THIS APPLET MUST BE RUN USING FROM A COMMAND LINE OR TERMINAL USING THE FOLLOWING COMMAND: appletviewer Tetris.html
-THE PROGRAM WILL NOT FUNCTION IN A NORMAL BROWSER DUE TO COMPATIBILITY ISSUES!!!!
-
-Parts Implemented:
+# Parts Implemented:
 All but that which is included in Parts Not Implemented.
 
-Parts Not Implemented:
+# Parts Not Implemented:
 A high-score system was not implemented due to time constraints (exams, papers, etc.)
 
-Notes:
-
-INSTRUCTIONS FOR RUNNING THIS PROGRAM!
-
-THIS APPLET MUST BE RUN USING FROM A COMMAND LINE OR TERMINAL USING THE FOLLOWING COMMAND: appletviewer Tetris.html
-THE PROGRAM WILL NOT FUNCTION IN A NORMAL BROWSER DUE TO COMPATIBILITY ISSUES!!!!
-
-Known Bugs:
+# Known Bugs:
 There are no known bugs, with the exception of the applet not working in a browser and when the game ends and tries to terminate the applet, a stacktrace will be printed because Windows doesn't allow it to close the appletviewer. This is not a problem with the code, but simply a permissions issue.
 
-Extra Credit:
+# Extra Credit:
 Music, Detailed graphics, Graphics instructions
 
-Sample Output:
+# Sample Output:
  
 See included screenshot for output
-
-
-
